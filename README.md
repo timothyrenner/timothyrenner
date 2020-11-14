@@ -1,6 +1,6 @@
 I'm a machine learning engineer / data scientist / travel nerd.
 I'm into geospatial data science, end-to-end ML automation and deployment, and data engineering.
-I also sometimes hunt for Sasquatch 👣 and watch for UFOs 🛸.
+I also sometimes hunt for Sasquatch 👣 &nbsp; and watch for UFOs 🛸.
 
 - 😄 &nbsp; Pronouns: he/him
 ---
