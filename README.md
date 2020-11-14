@@ -13,11 +13,7 @@ I also sometimes hunt for Sasquatch 👣 and watch for UFOs 🛸.
 - 🌟 &nbsp; **BIG DATA** Spark, Hive, Presto
 
 ---
-<!-- ## Datasets <img src="https://assets.ifttt.com/images/channels/1590618050/icons/large.png" width="25"> -->
-<div style="display: flex; align-items:center"> 
-<img src="https://assets.ifttt.com/images/channels/1590618050/icons/large.png" width="25"> &nbsp; &nbsp; <h2>Datasets</h2>
-</div>
-
+## Datasets
 I maintain several pretty popular datasets on [data.world](https://data.world/timothyrenner).
 You might notice a theme.
 
