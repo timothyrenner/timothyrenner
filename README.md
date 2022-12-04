@@ -12,7 +12,7 @@ I also sometimes hunt for Sasquatch 👣 &nbsp; and watch for UFOs 🛸.
 - 🌟 &nbsp; **BIG DATA** Spark, Hive, Presto, BigQuery
 - 🔻 &nbsp; **small data** DVC, DuckDB, SQLite
 - 🕸️ &nbsp; **Web & Backend Stuff** Dash, Flask, FastAPI
-- 💾 &nbsp; **Databases(ish)**  Postgres, Elasticsearch
+- 💾 &nbsp; **Databases(ish)**  Postgres, Elasticsearch, DBT
 
 ---
 ## Datasets
@@ -20,7 +20,7 @@ I maintain several pretty popular datasets on [data.world](https://data.world/ti
 You might notice a theme.
 
 
-* 👣 &nbsp; [Bigfoot Sightings](https://data.world/timothyrenner/bfro-sightings-data) ([repo](https://github.com/timothyrenner/bfro_sightings_data), [Dash App](https://bigfoot-sightings-dash.herokuapp.com/))
+* 👣 &nbsp; [Bigfoot Sightings](https://data.world/timothyrenner/bfro-sightings-data) ([repo](https://github.com/timothyrenner/bfro_sightings_data))
 * 🛸 &nbsp; [UFO Sightings](https://data.world/timothyrenner/ufo-sightings) ([repo](https://github.com/timothyrenner/nuforc_sightings_data))
 * 👻 &nbsp; [Haunted Places](https://data.world/timothyrenner/haunted-places) ([repo](https://github.com/timothyrenner/shadowlands-haunted-places))
 * 🐺 &nbsp; [Dogman Sightings](https://data.world/timothyrenner/dogman-sightings) ([repo](https://github.com/timothyrenner/nadp-sightings-data))
