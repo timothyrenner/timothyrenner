@@ -9,7 +9,7 @@ I also sometimes hunt for Sasquatch 👣 &nbsp; and watch for UFOs 🛸.
 - 🐍 &nbsp; **Top Language** Python
 - 🗣️ &nbsp; **Proficient** Go, Javascript
 - ☁️ &nbsp; **Cloud Stuff** Google Cloud, Terraform
-- 🌟 &nbsp; **BIG DATA** Spark, Hive, Presto, BigQuery
+- 🌟 &nbsp; **BIG DATA** Spark, Snowflake, BigQuery
 - 🔻 &nbsp; **small data** DVC, DuckDB, SQLite
 - 🕸️ &nbsp; **Web & Backend Stuff** Dash, Flask, FastAPI
 - 💾 &nbsp; **Databases(ish)**  Postgres, Elasticsearch, DBT
