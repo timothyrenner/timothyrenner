@@ -21,7 +21,7 @@ You might notice a theme.
 
 
 * 👣 &nbsp; [Bigfoot Sightings](https://data.world/timothyrenner/bfro-sightings-data) ([repo](https://github.com/timothyrenner/bfro_sightings_data))
-* 🛸 &nbsp; [UFO Sightings](https://data.world/timothyrenner/ufo-sightings) ([repo](https://github.com/timothyrenner/nuforc_sightings_data))
+* 🛸 &nbsp; [UFO Sightings](https://data.world/timothyrenner/ufo-sightings) ([repo](https://github.com/timothyrenner/nuforc_sightings_data)) 🪦 RIP
 * 👻 &nbsp; [Haunted Places](https://data.world/timothyrenner/haunted-places) ([repo](https://github.com/timothyrenner/shadowlands-haunted-places))
 * 🐺 &nbsp; [Dogman Sightings](https://data.world/timothyrenner/dogman-sightings) ([repo](https://github.com/timothyrenner/nadp-sightings-data))
 
