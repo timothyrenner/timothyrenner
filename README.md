@@ -31,7 +31,6 @@ All of these were collected from publicly accessible data, either via file downl
 ## Blogs and Stuff
 
 * 📔 &nbsp; [Personal Blog Home](https://timothyrenner.github.io/)
-* ✈️ &nbsp;[Expedia Group Blogs](https://medium.com/@trenner)
 <!--
 **timothyrenner/timothyrenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
