@@ -14,7 +14,7 @@ ML engineer / data scientist / data engineer.
 
 ---
 ## Datasets
-I maintain several pretty popular datasets on [data.world](https://data.world/timothyrenner).
+I maintained several pretty popular datasets on [data.world](https://data.world/timothyrenner) (🪦RIP) .
 You might notice a theme.
 
 
